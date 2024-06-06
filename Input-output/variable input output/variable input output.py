@@ -1,0 +1,5 @@
+print(" May I know your name please?")
+name = input()
+print(" Your name is", name, "correct ?")
+correct = input()
+print("Okay, I have noted your name as", name, end=".")
